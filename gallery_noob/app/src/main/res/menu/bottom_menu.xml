@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="Thư viện"
+        android:icon="@drawable/ic_baseline_image"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:title="Yêu thích"
+        android:icon="@drawable/ic_baseline_favorite"/>
+    <item
+        android:id="@+id/thirdFragment"
+        android:title="Album"
+        android:icon="@drawable/ic_baseline_photo_album"/>
+</menu>
